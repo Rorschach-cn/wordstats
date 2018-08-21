@@ -62,7 +62,7 @@ def print_file_stats(fname):
 def main():
   print_file_stats('bill.txt')
   
-if __name__ == '__main__':
+if _ _name_ _ == '_ _main_ _':
   main()
   
     
