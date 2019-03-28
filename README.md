@@ -1,4 +1,5 @@
 # wordstats.py
+```python
 # 文本统计小程序
 #包含所要保留的字符的集合
 keep = {'a', 'b', 'c', 'd', 'e',
@@ -65,4 +66,5 @@ def main():
 if _ _name_ _ == '_ _main_ _':
   main()
   
-    
+```
+
